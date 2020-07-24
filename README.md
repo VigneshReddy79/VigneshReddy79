@@ -17,26 +17,19 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 🌱 I'm currently learning Data Science and completed few certifications.
-### I'm passionate about
-- Data Cleaning
-- Machine learning
-
-
-
-
 ## I am passionate about:
 
-- Web Develpoment
-- Graphics Designing
-- Android Dev
-- Gaming
+- Data Analysis
+- Machine Learning
+- Data Visualisation
 
 ## Skills
 
 <img src="https://img.shields.io/badge/Pandas -563d7c" /> <img src="https://img.shields.io/badge/Numpy -41b883" /> <img src="https://img.shields.io/badge/SQL -FF0000" /> <img src="https://img.shields.io/badge/Python -1cc4b4" /> <img src="https://img.shields.io/badge/JAVA -FF0000" /> <img src="https://img.shields.io/badge/MLalgorithms -ff7b19" /> 
 <img src="https://img.shields.io/badge/HTML5-ff7851" /> <img src="https://img.shields.io/badge/CSS3-44b2fb" /> <img src="https://img.shields.io/badge/JavaScript -ffc742" /> 
-</br>
+
 <!--
+</br>
 <details>
 	<summary>Tools</summary>
 	<ul>
@@ -48,6 +41,7 @@ Here are some ideas to get you started:
 
 </details>
 -->
+
 <details>
 	<summary>Operating Systems</summary>
 	<ul>
