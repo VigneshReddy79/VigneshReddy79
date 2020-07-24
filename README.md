@@ -16,8 +16,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-🌱 I'm currently learning Data Science 
-I am 
+🌱 I'm currently learning Data Science and completed few certifications.
+### I'm passionate about
+- Data Cleaning
+- Machine learning
 - ![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=sunny+) `#f03c15`
 - ![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) `#c5f015`
 - ![#1589F0](https://via.placeholder.com/15/1589F0/000000?text=+) `#1589F0`
