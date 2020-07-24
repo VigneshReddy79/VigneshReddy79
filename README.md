@@ -1,6 +1,6 @@
 # 🖥️ Data Scientist
 
-#### Hi there 👋,
+#### Hi there 👋
 I'm Sai Vignesh Reddy Cholleti, a passionate neophyte data scientist from India.
 <!--
 **VigneshReddy79/VigneshReddy79** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -51,7 +51,7 @@ Here are some ideas to get you started:
 </details>
 </br>
 </br>
-
+- 📫 Reach me @
 <a href="https://drive.google.com/file/d/1h7gLmsMGwBEjek3JclMdLfTwtcwC0j23/view"><img src="https://img.shields.io/badge/🔽Download_My_CV-002366"/></a>
 <a href="https://www.linkedin.com/in/sai-vignesh-reddy-cholleti-19708414b/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 <a href="mailto:reddy.vignesh.1997@gmail.com"><img src="https://img.shields.io/badge/-GMail-red.svg?&style=flat-square&logo=gmail&logoColor=white" alt="GMail"></a>
