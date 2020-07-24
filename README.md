@@ -57,6 +57,6 @@ Here are some ideas to get you started:
 </br>
 </br>
 <a href="#"><img src="https://img.shields.io/badge/🔽Download_My_CV-002366"/></a>
-<a href="#"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="#"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="https://www.linkedin.com/in/sai-vignesh-reddy-cholleti-19708414b/"></a>
 <a href="#"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
 <a href="#"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white" alt="Facebook"></a>
