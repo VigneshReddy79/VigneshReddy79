@@ -52,7 +52,7 @@ Here are some ideas to get you started:
 </br>
 </br>
 
-<a href="#"><img src="https://img.shields.io/badge/🔽Download_My_CV-002366"/></a>
+<a href="https://drive.google.com/file/d/1h7gLmsMGwBEjek3JclMdLfTwtcwC0j23/view"><img src="https://img.shields.io/badge/🔽Download_My_CV-002366"/></a>
 <a href="https://www.linkedin.com/in/sai-vignesh-reddy-cholleti-19708414b/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 <a href="gmailto:saivignesh666sunny@gmail.com"><img src="https://img.shields.io/badge/-GMail-orange.svg?&style=flat-square&logo=gmail&logoColor=white" alt="GMail"></a>
 <!--
