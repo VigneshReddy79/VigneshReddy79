@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-🌱 I'm currently learning Data Science and completed few certifications.
+🌱 I'm currently a graduate student in Applied Statistics w/ Data Science Conc. and completed few online certifications in the past.
 ## I am passionate about:
 
 - Data Analysis
