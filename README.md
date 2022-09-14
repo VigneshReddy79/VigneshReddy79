@@ -57,7 +57,7 @@ Programming languages: <img src="https://img.shields.io/badge/Python -1cc4b4" />
 
 📫 Reach me@
 <a href="https://drive.google.com/file/d/1h7gLmsMGwBEjek3JclMdLfTwtcwC0j23/view"><img src="https://img.shields.io/badge/🔽Download_My_CV-002366"/></a>
-<a href="https://https://www.linkedin.com/in/vigneshreddy79/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="https://www.linkedin.com/in/vigneshreddy79"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 <a href="mailto:csvr7997@gmail.com"><img src="https://img.shields.io/badge/-GMail-red.svg?&style=flat-square&logo=gmail&logoColor=white" alt="GMail"></a>
 <!--
 <a href="#"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
